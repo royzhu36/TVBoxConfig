@@ -162,39 +162,15 @@
       "group": "篮球",
       "channels": [
         {
-          "name": "NBA马刺vs火箭(腾讯8)",
+          "name": "NBA黄蜂vs热火(腾讯8)",
           "urls": [
             "https://www.rtmpcdn.com/live/qq8.m3u8"
           ]
         },
         {
-          "name": "NBA马刺vs火箭(CCTV5)",
+          "name": "NBA76人vs雄鹿(腾讯2)",
           "urls": [
-            "https://www.rtmpcdn.com/live/cctv5.m3u8"
-          ]
-        },
-        {
-          "name": "NBA爵士vs鹈鹕(腾讯9)",
-          "urls": [
-            "https://www.rtmpcdn.com/live/qq9.m3u8"
-          ]
-        },
-        {
-          "name": "NBA湖人vs快船(腾讯11)",
-          "urls": [
-            "https://www.rtmpcdn.com/live/qq11.m3u8"
-          ]
-        },
-        {
-          "name": "NBA勇士vs灰熊(腾讯10)",
-          "urls": [
-            "https://www.rtmpcdn.com/live/qq10.m3u8"
-          ]
-        },
-        {
-          "name": "NBA国王vs开拓者(腾讯12)",
-          "urls": [
-            "https://www.rtmpcdn.com/live/qq12.m3u8"
+            "https://www.rtmpcdn.com/live/qq2.m3u8"
           ]
         }
       ]
