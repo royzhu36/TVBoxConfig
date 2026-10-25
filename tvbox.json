@@ -162,15 +162,45 @@
       "group": "篮球",
       "channels": [
         {
-          "name": "NBA黄蜂vs热火(腾讯8)",
+          "name": "NBA太阳vs勇士(00111)",
           "urls": [
-            "https://www.rtmpcdn.com/live/qq8.m3u8"
+            "https://hlsz.yjjcfw.com/live/10022600111.m3u8?expire=1792909274&sign=cf7438d647a3864f83959172e6c5740b"
+          ]
+        },
+        {
+          "name": "NBA太阳vs勇士(纬来)",
+          "urls": [
+            "https://hlsz.yjjcfw.com/live/vl.m3u8?expire=1792909307&sign=79c806547f4878e924d7ba5bafd6f4e2"
           ]
         },
         {
           "name": "NBA76人vs雄鹿(腾讯2)",
           "urls": [
             "https://www.rtmpcdn.com/live/qq2.m3u8"
+          ]
+        },
+        {
+          "name": "NBA公牛vs奇才(腾讯7)",
+          "urls": [
+            "https://www.rtmpcdn.com/live/qq7.m3u8"
+          ]
+        },
+        {
+          "name": "NBA独行侠vs马刺(腾讯3)",
+          "urls": [
+            "https://www.rtmpcdn.com/live/qq3.m3u8"
+          ]
+        },
+        {
+          "name": "NBA老鹰vs火箭(腾讯4)",
+          "urls": [
+            "https://www.rtmpcdn.com/live/qq4.m3u8"
+          ]
+        },
+        {
+          "name": "NBA掘金vs鹈鹕(腾讯5)",
+          "urls": [
+            "https://www.rtmpcdn.com/live/qq5.m3u8"
           ]
         }
       ]
