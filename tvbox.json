@@ -3396,13 +3396,6 @@
           ]
         },
         {
-          "name": "现代教育",
-          "urls": [
-            "http://120.87.19.109:80/PLTV/88888973/224/3221225733/10000100000000060000000000334513_0.smil/01.m3u8?fmt=ts2hls,244,01.m3u8&accountinfo=UoQbCSdhOfs+Fhzpjb+WON1faRQ9pU15SBx6EULzJM/q63EjPL5/UXSVfEKzDq3xYBA53ZUw8cnNtR6tkC1LvwWZ1F4+6A1eDkDeh5XZlpvpn23wIF+ldb6dnBPa8zHj,END&tenantId=8601",
-            "http://49.234.31.101:7033/tsfile/live/1080_1.m3u8?key=txiptv&playlive=1&authid=0"
-          ]
-        },
-        {
           "name": "大湾区卫视",
           "urls": [
             "http://148.135.93.213/live.php?id=大湾区卫视",
@@ -3413,52 +3406,61 @@
         {
           "name": "上海新闻综合",
           "urls": [
-            "http://140.207.241.2:8080/live/program/live/xwzhhd/4000000/mnf.m3u8",
-            "https://stream1.freetv.fun/shang-hai-xin-wen-zong-he.m3u8"
+            "https://pi.0472.org/hls/shxwzh.m3u8",
+            "http://144.48.240.144:2019/SunTv.php?name=SHNewsHD",
+            "http://140.207.241.2:8080/live/program/live/xwzhhd/4000000/mnf.m3u8"
           ]
         },
         {
           "name": "上海五星体育",
           "urls": [
-            "http://140.207.241.2:8080/live/program/live/ssty/4000000/mnf.m3u8",
-            "https://stream1.freetv.fun/shang-hai-wu-xing-ti-yu.m3u8"
+            "https://pi.0472.org/hls/wxty.m3u8",
+            "http://144.48.240.144:2019/SunTv.php?name=SHSportHD",
+            "http://140.207.241.2:8080/live/program/live/ssty/4000000/mnf.m3u8"
           ]
         },
         {
           "name": "上海ICS外语",
           "urls": [
-            "http://140.207.241.2:8080/live/program/live/wypdhd/4000000/mnf.m3u8",
-            "http://player.ioioz.com/18/tv.php?tv=shydbst&id=shicshd"
+            "https://pi.0472.org/hls/shics.m3u8",
+            "http://144.48.240.144:2019/SunTv.php?name=ICS",
+            "http://140.207.241.2:8080/live/program/live/wypdhd/4000000/mnf.m3u8"
+          ]
+        },
+        {
+          "name": "上海都市",
+          "urls": [
+            "https://pi.0472.org/hls/shds.m3u8",
+            "http://144.48.240.144:2019/SunTv.php?name=DongFangYuLeHD",
+            "http://140.207.241.2:8080/live/program/live/ylpdhd/4000000/mnf.m3u8"
+          ]
+        },
+        {
+          "name": "上海纪实人文",
+          "urls": [
+            "https://pi.0472.org/hls/shjsrw.m3u8",
+            "http://144.48.240.144:2019/SunTv.php?name=SHJiShiHD",
+            "http://140.207.241.2:8080/live/program/live/jspdhd/4000000/mnf.m3u8"
           ]
         },
         {
           "name": "上海东方影视",
           "urls": [
+            "http://144.48.240.144:2019/SunTv.php?name=SHTeleplayHD",
             "http://140.207.241.2:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8"
           ]
         },
         {
           "name": "上海第一财经",
           "urls": [
-            "http://140.207.241.2:8080/live/program/live/dycjhd/4000000/mnf.m3u8",
-            "http://player.ioioz.com/18/tv.php?tv=shydbst&id=shcjhd"
-          ]
-        },
-        {
-          "name": "上海纪实人文",
-          "urls": [
-            "http://140.207.241.2:8080/live/program/live/jspdhd/4000000/mnf.m3u8"
-          ]
-        },
-        {
-          "name": "上海都市",
-          "urls": [
-            "http://140.207.241.2:8080/live/program/live/ylpdhd/4000000/mnf.m3u8"
+            "http://144.48.240.144:2019/SunTv.php?name=CBNHD",
+            "http://140.207.241.2:8080/live/program/live/dycjhd/4000000/mnf.m3u8"
           ]
         },
         {
           "name": "上海哈哈炫动",
           "urls": [
+            "http://144.48.240.144:2019/SunTv.php?name=TOONMAXTV",
             "http://140.207.241.2:8080/live/program/live/hhxdhd/4000000/mnf.m3u8"
           ]
         },
