@@ -3408,7 +3408,8 @@
           "urls": [
             "https://pi.0472.org/hls/shxwzh.m3u8",
             "http://144.48.240.144:2019/SunTv.php?name=SHNewsHD",
-            "http://140.207.241.2:8080/live/program/live/xwzhhd/4000000/mnf.m3u8"
+            "http://140.207.241.2:8080/live/program/live/xwzhhd/4000000/mnf.m3u8",
+            "http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225767/index.m3u8"
           ]
         },
         {
@@ -3416,7 +3417,9 @@
           "urls": [
             "https://pi.0472.org/hls/wxty.m3u8",
             "http://144.48.240.144:2019/SunTv.php?name=SHSportHD",
-            "http://140.207.241.2:8080/live/program/live/ssty/4000000/mnf.m3u8"
+            "http://140.207.241.2:8080/live/program/live/ssty/4000000/mnf.m3u8",
+            "http://117.148.187.83/PLTV/88888888/224/3221226582/index.m3u8",
+            "http://117.148.187.37/PLTV/88888888/224/3221226582/index.m3u8"
           ]
         },
         {
@@ -3424,7 +3427,9 @@
           "urls": [
             "https://pi.0472.org/hls/shics.m3u8",
             "http://144.48.240.144:2019/SunTv.php?name=ICS",
-            "http://140.207.241.2:8080/live/program/live/wypdhd/4000000/mnf.m3u8"
+            "http://140.207.241.2:8080/live/program/live/wypdhd/4000000/mnf.m3u8",
+            "http://player.ioioz.com/18/tv.php?tv=shydbst&id=shwyhd",
+            "http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225768/index.m3u8"
           ]
         },
         {
@@ -3432,7 +3437,8 @@
           "urls": [
             "https://pi.0472.org/hls/shds.m3u8",
             "http://144.48.240.144:2019/SunTv.php?name=DongFangYuLeHD",
-            "http://140.207.241.2:8080/live/program/live/ylpdhd/4000000/mnf.m3u8"
+            "http://140.207.241.2:8080/live/program/live/ylpdhd/4000000/mnf.m3u8",
+            "http://player.ioioz.com/18/tv.php?tv=shydbst&id=shylhd"
           ]
         },
         {
@@ -3440,7 +3446,8 @@
           "urls": [
             "https://pi.0472.org/hls/shjsrw.m3u8",
             "http://144.48.240.144:2019/SunTv.php?name=SHJiShiHD",
-            "http://140.207.241.2:8080/live/program/live/jspdhd/4000000/mnf.m3u8"
+            "http://140.207.241.2:8080/live/program/live/jspdhd/4000000/mnf.m3u8",
+            "http://player.ioioz.com/18/tv.php?tv=shydbst&id=shjshd"
           ]
         },
         {
@@ -3453,8 +3460,12 @@
         {
           "name": "上海第一财经",
           "urls": [
+            "http://w1.livecdn.yicai.com/hls/live/CBN_hd/live.m3u8",
+            "http://w1.livecdn.yicai.com/hls/live/CBN_sd/live.m3u8",
             "http://144.48.240.144:2019/SunTv.php?name=CBNHD",
-            "http://140.207.241.2:8080/live/program/live/dycjhd/4000000/mnf.m3u8"
+            "http://140.207.241.2:8080/live/program/live/dycjhd/4000000/mnf.m3u8",
+            "http://player.ioioz.com/18/tv.php?tv=shydbst&id=dycjhd",
+            "http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225813/index.m3u8"
           ]
         },
         {
@@ -3468,6 +3479,12 @@
           "name": "上海教育",
           "urls": [
             "http://140.207.241.2:8080/live/program/live/setv/1300000/mnf.m3u8"
+          ]
+        },
+        {
+          "name": "上海浦东",
+          "urls": [
+            "http://pdlive.lyuncloud.com/pdlive/pdtv/index.m3u8"
           ]
         }
       ]
