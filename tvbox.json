@@ -2716,53 +2716,6 @@
       ]
     },
     {
-      "group": "央视卫视",
-      "channels": [
-        {
-          "name": "CCTV-1 综合",
-          "urls": [
-            "https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8"
-          ]
-        },
-        {
-          "name": "CCTV-2 财经",
-          "urls": [
-            "https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8"
-          ]
-        },
-        {
-          "name": "CCTV-13 新闻",
-          "urls": [
-            "https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL5.smil/playlist.m3u8"
-          ]
-        },
-        {
-          "name": "CCTV-4 中文国际",
-          "urls": [
-            "https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL4.smil/playlist.m3u8"
-          ]
-        },
-        {
-          "name": "CCTV-9 纪录",
-          "urls": [
-            "https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL3.smil/playlist.m3u8"
-          ]
-        },
-        {
-          "name": "CCTV+ 英文国际",
-          "urls": [
-            "https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL6.smil/playlist.m3u8"
-          ]
-        },
-        {
-          "name": "CCTV-1 HD (1080p)",
-          "urls": [
-            "http://69.30.245.50/live/cctv1.m3u8"
-          ]
-        }
-      ]
-    },
-    {
       "group": "香港台+凤凰",
       "channels": [
         {
@@ -2814,6 +2767,25 @@
             "http://120.198.95.220:9901/tsfile/live/1037_1.m3u8?key=txiptv",
             "http://zmgd.zyrnet.com:8888/hls/109/index.m3u8",
             "http://218.206.193.218:8888/hls/65/index.m3u8"
+          ]
+        }
+      ]
+    },
+    {
+      "group": "央视卫视地方台",
+      "channels": [
+        {
+          "name": "CCTV+卫视全套(fanmingming)",
+          "urls": [
+            "https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/m3u/ipv6.m3u",
+            "https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
+            "https://live.fanmingming.cn/tv/m3u/ipv6.m3u"
+          ]
+        },
+        {
+          "name": "中国频道全量(iptv-org)",
+          "urls": [
+            "https://iptv-org.github.io/iptv/countries/cn.m3u"
           ]
         }
       ]
