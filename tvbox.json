@@ -2645,12 +2645,12 @@
         {
           "name": "中天新闻",
           "urls": [
+            "https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8",
             "http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1782639885837",
             "http://222.128.55.152:9080/live/fc.m3u8",
             "http://111.0.115.129:8081/live/222ztxw.m3u8",
             "http://iactive-clink.com:8081/live/111ztxw.m3u8",
-            "http://jnzq.ohoyee.com:9080/live/332123-ztxw2.m3u8",
-            "https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8"
+            "http://jnzq.ohoyee.com:9080/live/332123-ztxw2.m3u8"
           ]
         },
         {
@@ -2665,11 +2665,11 @@
         {
           "name": "TVBS新闻",
           "urls": [
+            "https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8",
             "http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8?q=1782639885837",
             "http://jnzq.ohoyee.com:9080/live/xingjiaoge-tvbsxw.m3u8",
             "http://61.221.215.25:8800/hls/9/index.m3u8",
-            "http://38.64.72.148/hls/modn/list/4027/playlist.m3u8",
-            "https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8"
+            "http://38.64.72.148/hls/modn/list/4027/playlist.m3u8"
           ]
         },
         {
