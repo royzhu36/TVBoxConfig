@@ -2645,72 +2645,55 @@
         {
           "name": "中天新闻",
           "urls": [
-            "https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8",
-            "http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1782639885837",
-            "http://jnzq.ohoyee.com:9080/live/332123-ztxw2.m3u8",
-            "http://222.128.55.152:9080/live/fc.m3u8",
-            "http://45.192.97.170:8880/play/1317.m3u8",
-            "http://111.0.115.129:8081/live/222ztxw.m3u8",
-            "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8"
+            "https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8"
           ]
         },
         {
           "name": "东森新闻",
           "urls": [
-            "https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8",
-            "http://4gtv.cnlive.club/channel/n5ca63a3a/index.m3u8?q=1782639885837",
-            "http://45.192.97.170:8880/play/1310.m3u8"
+            "https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8"
           ]
         },
         {
           "name": "TVBS新闻",
           "urls": [
-            "https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8",
-            "http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8?q=1782639885837",
-            "http://jnzq.ohoyee.com:9080/live/xingjiaoge-tvbsxw.m3u8",
-            "http://61.221.215.25:8800/hls/9/index.m3u8",
-            "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8"
+            "https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8"
           ]
         },
         {
-          "name": "寰宇新闻",
+          "name": "华视新闻(新源)",
           "urls": [
-            "http://4gtv.cnlive.club/channel/n4da4274/index.m3u8?q=1782639885837",
-            "http://jnzq.ohoyee.com:9080/live/xiangjiaoge-hyxw.m3u8",
-            "http://222.128.55.152:9080/live/hy.m3u8"
+            "https://d2jc41c1shgcol.cloudfront.net/live/ctsnewsqt/playlist.m3u8"
           ]
         },
         {
-          "name": "华视新闻",
+          "name": "中视新闻(新源)",
           "urls": [
-            "http://4gtv.cnlive.club/channel/n692bc32c/index.m3u8?q=1782639885837",
-            "http://45.192.97.170:8880/play/1311.m3u8"
+            "https://d2jc41c1shgcol.cloudfront.net/live/ctvnewsqt/playlist.m3u8"
           ]
         },
         {
-          "name": "台视新闻",
+          "name": "三立iNEWS(新源)",
           "urls": [
-            "http://222.128.55.152:9080/live/ts.m3u8",
-            "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8"
+            "https://d2jc41c1shgcol.cloudfront.net/live/iNEWS/playlist.m3u8"
           ]
         },
         {
-          "name": "中视新闻",
+          "name": "台视新闻(官方源)",
           "urls": [
-            "http://4gtv.cnlive.club/channel/7e6461d6/index.m3u8?q=1782639885837",
-            "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8"
+            "https://live.wcetv.com/hls/master-ttvnews.m3u8"
           ]
         },
         {
-          "name": "民视新闻",
+          "name": "民视新闻(新源)",
           "urls": [
-            "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8"
+            "http://38.64.72.148/hls/modn/list/4012/playlist.m3u8"
           ]
         },
         {
-          "name": "三立NEWS+",
+          "name": "寰宇新闻(国内中转)",
           "urls": [
-            "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8"
+            "http://4gtv.cnlive.club/channel/n4da4274/index.m3u8?q=1782639885837"
           ]
         }
       ]
