@@ -121,9 +121,9 @@
       "group": "足球",
       "channels": [
         {
-          "name": "英超 切尔西vs曼联",
+          "name": "英超 切尔西vs曼联(腾讯体育)",
           "urls": [
-            "https://www.rtmpcdn.com/live/migu2.m3u8"
+            "https://spl.tiyucdn.com/matchlive/ls2067778_30fps.m3u8"
           ]
         }
       ]
