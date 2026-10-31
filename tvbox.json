@@ -121,39 +121,9 @@
       "group": "足球",
       "channels": [
         {
-          "name": "CCTV-Storm Football (1080p)",
+          "name": "英超 切尔西vs曼联",
           "urls": [
-            "http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub"
-          ]
-        },
-        {
-          "name": "Football (720p)",
-          "urls": [
-            "http://31.148.48.15/Futbol_HD/index.m3u8"
-          ]
-        },
-        {
-          "name": "Match! Premier (480p) [Geo-blocked]",
-          "urls": [
-            "http://192.162.64.99:5000/play/a02b/index.m3u8"
-          ]
-        },
-        {
-          "name": "Premier Sports 2 (1080p)",
-          "urls": [
-            "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
-          ]
-        },
-        {
-          "name": "Premier Sports (1080p)",
-          "urls": [
-            "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
-          ]
-        },
-        {
-          "name": "Strongman Champions League (720p)",
-          "urls": [
-            "https://rightsboosterltd-scl-1-be.samsung.wurl.tv/playlist.m3u8"
+            "https://www.rtmpcdn.com/live/migu2.m3u8"
           ]
         }
       ]
@@ -162,15 +132,9 @@
       "group": "篮球",
       "channels": [
         {
-          "name": "NBA 勇士vs湖人(腾讯6)",
+          "name": "CBA 福建晋江vs青岛国信",
           "urls": [
-            "https://www.rtmpcdn.com/live/qq6.m3u8"
-          ]
-        },
-        {
-          "name": "NBA 太阳vs掘金(腾讯7)",
-          "urls": [
-            "https://www.rtmpcdn.com/live/qq7.m3u8"
+            "https://www.rtmpcdn.com/live/migu2.m3u8"
           ]
         }
       ]
