@@ -162,19 +162,25 @@
       "group": "篮球",
       "channels": [
         {
-          "name": "NBA太阳vs勇士(腾讯6)",
+          "name": "NBA 76人vs尼克斯",
           "urls": [
-            "https://www.rtmpcdn.com/live/qq6.m3u8"
+            "https://www.rtmpcdn.com/live/qq2.m3u8"
           ]
         },
         {
-          "name": "NBA掘金vs鹈鹕(腾讯5)",
+          "name": "NBA 森林狼vs快船",
           "urls": [
             "https://www.rtmpcdn.com/live/qq5.m3u8"
           ]
         },
         {
-          "name": "NBA老鹰vs火箭(腾讯4)",
+          "name": "NBA 热火vs步行者",
+          "urls": [
+            "https://www.rtmpcdn.com/live/qq3.m3u8"
+          ]
+        },
+        {
+          "name": "NBA 独行侠vs火箭",
           "urls": [
             "https://www.rtmpcdn.com/live/qq4.m3u8"
           ]
