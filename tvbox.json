@@ -132,9 +132,21 @@
       "group": "篮球",
       "channels": [
         {
-          "name": "CBA 福建晋江vs青岛国信",
+          "name": "NBA 黄蜂vs76人(腾讯2)",
           "urls": [
-            "https://www.rtmpcdn.com/live/migu2.m3u8"
+            "https://www.rtmpcdn.com/live/qq2.m3u8"
+          ]
+        },
+        {
+          "name": "NBA 鹈鹕vs老鹰(腾讯3)",
+          "urls": [
+            "https://www.rtmpcdn.com/live/qq3.m3u8"
+          ]
+        },
+        {
+          "name": "NBA 马刺vs森林狼(腾讯6)",
+          "urls": [
+            "https://www.rtmpcdn.com/live/qq6.m3u8"
           ]
         }
       ]
@@ -3443,23 +3455,6 @@
           "name": "上海浦东",
           "urls": [
             "http://pdlive.lyuncloud.com/pdlive/pdtv/index.m3u8"
-          ]
-        }
-      ]
-    },
-    {
-      "group": "全国地方台",
-      "channels": [
-        {
-          "name": "全国地方台(alantang每日更新)",
-          "urls": [
-            "https://raw.githubusercontent.com/alantang1977/iptv_api/main/output/live_ipv4.m3u"
-          ]
-        },
-        {
-          "name": "全国地方台(iptv-org中国)",
-          "urls": [
-            "https://iptv-org.github.io/iptv/countries/cn.m3u"
           ]
         }
       ]
