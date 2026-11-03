@@ -132,33 +132,21 @@
       "group": "篮球",
       "channels": [
         {
-          "name": "NBA 鹈鹕vs老鹰(腾讯3)",
-          "urls": [
-            "https://www.rtmpcdn.com/live/qq3.m3u8"
-          ]
-        },
-        {
-          "name": "NBA 灰熊vs国王(腾讯4)",
-          "urls": [
-            "https://www.rtmpcdn.com/live/qq4.m3u8"
-          ]
-        },
-        {
-          "name": "NBA 雄鹿vs骑士(腾讯5)",
-          "urls": [
-            "https://www.rtmpcdn.com/live/qq5.m3u8"
-          ]
-        },
-        {
-          "name": "NBA 马刺vs森林狼(腾讯6)",
-          "urls": [
-            "https://www.rtmpcdn.com/live/qq6.m3u8"
-          ]
-        },
-        {
-          "name": "NBA 火箭vs雷霆(腾讯7)",
+          "name": "NBA 勇士vs太阳(腾讯7)",
           "urls": [
             "https://www.rtmpcdn.com/live/qq7.m3u8"
+          ]
+        },
+        {
+          "name": "NBA 湖人vs热火(腾讯9)",
+          "urls": [
+            "https://www.rtmpcdn.com/live/qq9.m3u8"
+          ]
+        },
+        {
+          "name": "NBA 快船vs猛龙(腾讯8)",
+          "urls": [
+            "https://www.rtmpcdn.com/live/qq8.m3u8"
           ]
         }
       ]
