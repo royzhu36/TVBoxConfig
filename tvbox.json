@@ -117,17 +117,25 @@
     },
     {
       "key": "魔都资源",
-      "name": "魔都资源",
+      "name": "点播 | 魔都资源",
+      "type": 1,
       "api": "https://caiji.moduapi.cc/api.php/provide/vod/from/modum3u8/",
-      "type": 0,
-      "ext": null
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "playerType": 2
     },
     {
       "key": "电影天堂资源",
-      "name": "电影天堂资源",
+      "name": "点播 | 电影天堂资源",
+      "type": 1,
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/",
-      "type": 0,
-      "ext": null
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "playerType": 2
     }
   ],
   "lives": [
