@@ -94,28 +94,6 @@
       "playerType": 2
     },
     {
-      "key": "海外看资源",
-      "name": "点播 | 海外看资源",
-      "type": 1,
-      "api": "https://haiwaikan.com/api.php/provide/vod/from/hwm3u8/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "playerType": 2
-    },
-    {
-      "key": "樱花资源",
-      "name": "点播 | 樱花动漫(番剧)",
-      "type": 1,
-      "api": "http://cj.yhzyapi.com/api.php/provide/vod/from/yhm3u8/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "playerType": 2
-    },
-    {
       "key": "魔都资源",
       "name": "点播 | 魔都资源",
       "type": 1,
