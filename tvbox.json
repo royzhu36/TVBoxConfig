@@ -77,7 +77,7 @@
       "type": 1,
       "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8/",
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "changeable": 1,
       "filterable": 1,
       "playerType": 2
@@ -88,7 +88,7 @@
       "type": 1,
       "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "changeable": 1,
       "filterable": 1,
       "playerType": 2
@@ -99,7 +99,7 @@
       "type": 1,
       "api": "https://caiji.moduapi.cc/api.php/provide/vod/from/modum3u8/",
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "changeable": 1,
       "filterable": 1,
       "playerType": 2
