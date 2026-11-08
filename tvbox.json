@@ -33,7 +33,7 @@
    "type": 1,
    "api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/",
    "searchable": 1,
-   "quickSearch": 1,
+   "quickSearch": 0,
    "changeable": 1,
    "filterable": 1,
    "playerType": 2
@@ -83,17 +83,6 @@
    "playerType": 2
   },
   {
-   "key": "索尼资源",
-   "name": "高清 | 索尼资源",
-   "type": 1,
-   "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
-   "searchable": 1,
-   "quickSearch": 0,
-   "changeable": 1,
-   "filterable": 1,
-   "playerType": 2
-  },
-  {
    "key": "魔都资源",
    "name": "点播 | 魔都资源",
    "type": 1,
@@ -111,6 +100,50 @@
    "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/",
    "searchable": 1,
    "quickSearch": 1,
+   "changeable": 1,
+   "filterable": 1,
+   "playerType": 2
+  },
+  {
+   "key": "量子资源",
+   "name": "点播 | 红牛资源",
+   "type": 1,
+   "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 0,
+   "changeable": 1,
+   "filterable": 1,
+   "playerType": 2
+  },
+  {
+   "key": "量子资源",
+   "name": "点播 | 新浪资源",
+   "type": 1,
+   "api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 0,
+   "changeable": 1,
+   "filterable": 1,
+   "playerType": 2
+  },
+  {
+   "key": "量子资源",
+   "name": "点播 | 火狐资源",
+   "type": 1,
+   "api": "https://hhzyapi.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 0,
+   "changeable": 1,
+   "filterable": 1,
+   "playerType": 2
+  },
+  {
+   "key": "量子资源",
+   "name": "点播 | 创享U酷",
+   "type": 1,
+   "api": "https://ys.cxkjg.cn/api/provide/vod?source=4194624554",
+   "searchable": 1,
+   "quickSearch": 0,
    "changeable": 1,
    "filterable": 1,
    "playerType": 2
