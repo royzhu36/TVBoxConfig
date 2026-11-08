@@ -154,6 +154,18 @@
           "urls": [
             "https://www.rtmpcdn.com/live/qq6.m3u8"
           ]
+        },
+        {
+          "name": "NBA 勇士vs魔术(国内线路1)",
+          "urls": [
+            "https://hlsz.yjjcfw.com/live/10022600193.m3u8?expire=1794119125&sign=a0174490c8cf054ce363ff758f67bae8"
+          ]
+        },
+        {
+          "name": "NBA 勇士vs魔术(国内线路2)",
+          "urls": [
+            "https://hlsz.yjjcfw.com/live/00588365.m3u8?expire=1794119155&sign=29b46d555f79edb509a27251d45047fc"
+          ]
         }
       ]
     },
