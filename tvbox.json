@@ -154,9 +154,27 @@
    "group": "足球",
    "channels": [
     {
-     "name": "英超 切尔西vs曼联(腾讯体育)",
+     "name": "意甲 那不勒斯vs拉齐奥(国内线路1)",
      "urls": [
-      "https://spl.tiyucdn.com/matchlive/ls2067778_30fps.m3u8"
+      "https://hlsz.yjjcfw.com/live/00584796.m3u8?expire=1794153433&sign=1d997b38a22a92b66e0b2115fc7278d9"
+     ]
+    },
+    {
+     "name": "意甲 那不勒斯vs拉齐奥(国内线路2)",
+     "urls": [
+      "https://spl.tiyucdn.com/matchlive/ls2057486_30fps.m3u8"
+     ]
+    },
+    {
+     "name": "意甲 那不勒斯vs拉齐奥(中文解说)",
+     "urls": [
+      "https://play.aarray.cn/rrty/hd-zh-1-4549079_gqzm.m3u8?auth_key=1794142540-0-0-96a9258a03a2d31a2f927cd852ea3dac&token=dd121631ee96d2e3&device=4&platform=rrty"
+     ]
+    },
+    {
+     "name": "意甲 那不勒斯vs拉齐奥(英文1080P)",
+     "urls": [
+      "https://pul-tenm.gkykp.com/live/hd-en-1-4549079.m3u8?txSecret=7e67019122a857f037e49a6e17796ae0&txTime=6AF1AE41"
      ]
     }
    ]
