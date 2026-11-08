@@ -154,27 +154,75 @@
    "group": "足球",
    "channels": [
     {
-     "name": "意甲 那不勒斯vs拉齐奥(国内线路1)",
+     "name": "英超 水晶宫vs利物浦(国内1)",
      "urls": [
-      "https://hlsz.yjjcfw.com/live/00584796.m3u8?expire=1794153433&sign=1d997b38a22a92b66e0b2115fc7278d9"
+      "https://hlsz.yjjcfw.com/live/00584190.m3u8?expire=1794162212&sign=a4beb4e96efd7e3a7e761cde2ed8070f"
      ]
     },
     {
-     "name": "意甲 那不勒斯vs拉齐奥(国内线路2)",
+     "name": "英超 水晶宫vs利物浦(中文解说)",
      "urls": [
-      "https://spl.tiyucdn.com/matchlive/ls2057486_30fps.m3u8"
+      "https://play.aarray.cn/rrty/hd-zh-1-4558705_gqzm.m3u8?auth_key=1794151169-0-0-6d57ef028c32121184be5cc65c64f24c&token=3a9bd1c711940947&device=4&platform=rrty"
      ]
     },
     {
-     "name": "意甲 那不勒斯vs拉齐奥(中文解说)",
+     "name": "英超 水晶宫vs利物浦(英文1080P)",
      "urls": [
-      "https://play.aarray.cn/rrty/hd-zh-1-4549079_gqzm.m3u8?auth_key=1794142540-0-0-96a9258a03a2d31a2f927cd852ea3dac&token=dd121631ee96d2e3&device=4&platform=rrty"
+      "https://pul-tenm.gkykp.com/live/hd-en-1-4558705.m3u8?txSecret=9f767391bd568bb9b64a74b10299d663&txTime=6AF1D528"
      ]
     },
     {
-     "name": "意甲 那不勒斯vs拉齐奥(英文1080P)",
+     "name": "英超 布莱顿vs布伦特福德(国内1)",
      "urls": [
-      "https://pul-tenm.gkykp.com/live/hd-en-1-4549079.m3u8?txSecret=7e67019122a857f037e49a6e17796ae0&txTime=6AF1AE41"
+      "https://spl.tiyucdn.com/matchlive/ls2067786_30fps.m3u8"
+     ]
+    },
+    {
+     "name": "英超 布莱顿vs布伦特福德(中文解说)",
+     "urls": [
+      "https://play.aarray.cn/rrty/hd-zh-1-4558700_gqzm.m3u8?auth_key=1794151346-0-0-ea5bb89b2cb8d77b0c2feffe6de0b61a&token=ff3c3b32452379c1&device=4&platform=rrty"
+     ]
+    },
+    {
+     "name": "英超 布莱顿vs布伦特福德(英文1080P)",
+     "urls": [
+      "https://pul-tenm.gkykp.com/live/hd-en-1-4558700.m3u8?txSecret=e62751b0396aed055b4973cded459bf8&txTime=6AF1D528"
+     ]
+    },
+    {
+     "name": "英超 伊普斯维奇vs伯恩茅斯(国内1)",
+     "urls": [
+      "https://hlsz.yjjcfw.com/live/00584187.m3u8?expire=1794162322&sign=cc2bc68a62444c3ab762f793d0b457c1"
+     ]
+    },
+    {
+     "name": "英超 伊普斯维奇vs伯恩茅斯(国内2)",
+     "urls": [
+      "https://spl.tiyucdn.com/matchlive/ls2067790_30fps.m3u8"
+     ]
+    },
+    {
+     "name": "英超 伊普斯维奇vs伯恩茅斯(中文解说)",
+     "urls": [
+      "https://play.aarray.cn/rrty/hd-zh-1-4558713_gqzm.m3u8?auth_key=1794151476-0-0-46378a1b09ebe0532e1e8da17a166338&token=75dc8a13b9eb23ad&device=4&platform=rrty"
+     ]
+    },
+    {
+     "name": "英超 桑德兰vs切尔西(国内1)",
+     "urls": [
+      "https://hlsz.yjjcfw.com/live/00584183.m3u8?expire=1794162369&sign=48aae10647695bed7dd83eae322a482b"
+     ]
+    },
+    {
+     "name": "英超 桑德兰vs切尔西(中文解说)",
+     "urls": [
+      "https://play.aarray.cn/rrty/hd-zh-1-4558726_gqzm.m3u8?auth_key=1794151436-0-0-8d7c50db38ce7ebb9a7dd65618f648ba&token=d122d29bce5d86b5&device=4&platform=rrty"
+     ]
+    },
+    {
+     "name": "英超 桑德兰vs切尔西(英文1080P)",
+     "urls": [
+      "https://pul-tenm.gkykp.com/live/hd-en-1-4558726.m3u8?txSecret=56c16483a4b7ccb9eae65683a62d9b30&txTime=6AF1D528"
      ]
     }
    ]
