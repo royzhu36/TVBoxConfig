@@ -151,10 +151,6 @@
  ],
  "lives": [
   {
-   "group": "足球",
-   "channels": []
-  },
-  {
    "group": "篮球",
    "channels": [
     {
@@ -167,12 +163,6 @@
      "name": "NBA 独行侠vs篮网(国内2)",
      "urls": [
       "https://hlsz.yjjcfw.com/live/10022600199.m3u8?expire=1794208351&sign=3e8eada98a65f3cf812c81dbf8382b0c"
-     ]
-    },
-    {
-     "name": "NBA 独行侠vs篮网(腾讯线路)",
-     "urls": [
-      "https://ed5de08771c1401049a3b457906e588c.v.smtcdns.net/txycdn.video.qq.com/1397782502.m3u8?time=1794193941&from=player&cdn=tcloud&sdtfrom=v4000402212&platform=40201&butype=2&HLSP2P=1&vkey=nvkey_AQQgIEDwgB1ZfvnAaq398gkeMLefmB9QjXpiYQADIMwvvidyENC8Y5Iz5_7Db_fubejlHTUBcBqjc16pVB3JPNtBW4L8cL1nFEevCoqoMPsfyTLrfIc2sbiKt5V0aJD2eTIKNmMdDnFtsovJDth1PLg44zAdSvHPWRSAwv_vejheRhwdnO95wL8Vw3GnszY4FkTTOkUFS57-z9PWFwS9JXpWA0qz0qG_SaE0ScGY_5bukicbkVv4Cg1KemY3kPRJHoZavaWI3Hnk9sfNI_MJhH6TflCs5cuXEHRCCsHfEm98TJm2lGSMkF2L3MpHY5zqHicyMJD44-fENn6tGqzxwNkhb-ad8RvA8zKjhsW9jF3ZZXjWzAKhfWEm47PjCsU4pHAxRJdKplzVp8kXYpLG1Ta0-iDNXDuS_4NH7o1iRjg2U0K0niZmg2I8f1h6JGacIzQM4kuCDOXpMp2IwhHd5wWJRumKBkRRmCXcuceIvXuyy-B-x87AhbGijADqSKhQdv3e4g6Y7kcrRGQqVfRkjgijsgDX6NygjirW-JSfcXJE_YwuJp56&drmtype=0"
      ]
     },
     {
@@ -200,21 +190,9 @@
      ]
     },
     {
-     "name": "NBA 国王vs热火(腾讯线路)",
-     "urls": [
-      "https://txycdn7.video.qq.com/1397783702.m3u8?time=1794193819&cdn=txycdn&sdtfrom=v4000402212&platform=40201&butype=2&HLSP2P=1&vkey=nvkey_AQQgIBghAc3aQtkGCiM6SP7coTD9Mjjj4LGdpR-tr0ul3VzOEJIRpY7DlXW5XQxUQE7CoXsBcEwMO1AB4g32sTV3gjKK4R4cPkiUuV_eO3CAcUHeCspRhi-fEjyigYFIfbDxASLaVyNmy-7DaUAVm0RRaUtNUJuMtenV6LC_iMuo-C-IAu2UPHdVo_04wlQi_uQlBaYAcap28MUfm2kRJwlm2Uz20kITT8xUdAkDHW2u5IBOmnCIAGuaaIdam4WWqxeom7RJ6Isok7idiY1X7Qt1VKHxpmrgrXOWzkx8-9x8cy-TjX5knkeiSv6Ue8eqltGmKF2-CrUrxRMus8_F7lzkDIToYKb2Yi7uZZByVq0K95VHY3U53hD7KD4Jy1ahoQeTSpH0fyGQ3NrMrv3HyYW0bXjpLI3XJXHbgD6sUm4Xk-vlADtD88k1FFKJTJ5wiuwjjpSMsP9Q6p6XYvc4HIyQZ3W-8oih_ZaYHtJg8qHqrJRDY9hdB8A23CLxifvQwFiJPoUtcCvG-BFsI1_XjPiwNNHKkZaeKtGRSMvCc1E_MvmucG5q&drmtype=0"
-     ]
-    },
-    {
      "name": "NBA 快船vs鹈鹕(国内1)",
      "urls": [
       "https://hlsz.yjjcfw.com/live/10022600201.m3u8?expire=1794208272&sign=7464b89937633b36e8326d71fa1a072d"
-     ]
-    },
-    {
-     "name": "NBA 快船vs鹈鹕(腾讯线路)",
-     "urls": [
-      "https://2e4518f8da15c2064104d50f37e99f04.v.smtcdns.net/txycdn.video.qq.com/1782234902.m3u8?time=1794193841&from=player&cdn=tcloud&sdtfrom=v4000402212&platform=40201&butype=2&HLSP2P=1&vkey=nvkey_AQQgIMkuKc7lT58i537E2LYyQCFuvvDNYI8M54SFaU-VfTo6ELmlDABf5PncR1J7ND8ZziMBcHpJ0lOkgWTGRPbOuqk8z6XZqSeWW3Jp3RORlMzO5nMCGo-__7zVhpjyaKwZxccDQfBMlNjAXNf4nZMBBv5a-iuXOsqF5SHihwu3LCB1R9_HwvaMS79aiCEd_35oz8-qR1wmFwM0q5QMkwbm2u-nMquwCJvfFzfnD5Cvptxb0EXKZTr5oPfTnUX0kt2ZLGsC8geEikgIIDm0NlJUw41qj_9jCHZmpy3IS6ychNM9b0RvM9kyRFqCLXXn7MJo5Esen2qXnsbCIUEPmfg1KjWHF5XvlfLyQOYO4HclpKWbDe7h_wv-Xqt4YgLJKCge-sQnZ9SpbVnZMDu-UnTyW65Lln5wV7yU19eT-x46DdIsld5N_vvhVnydSax1MMWR4F930f-Guiw5sHFbW4L4uRLaO5PL4-rNssU_ecrC3TOYkB1PpiLHivJEI0uILvdo0K7w3pLblomIyPwTZN5UQIw9R1gl-pllfnnmfA9mT52IryQQ&drmtype=0"
      ]
     }
    ]
