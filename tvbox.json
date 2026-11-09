@@ -152,118 +152,69 @@
  "lives": [
   {
    "group": "足球",
-   "channels": [
-    {
-     "name": "英超 水晶宫vs利物浦(国内1)",
-     "urls": [
-      "https://hlsz.yjjcfw.com/live/00584190.m3u8?expire=1794162212&sign=a4beb4e96efd7e3a7e761cde2ed8070f"
-     ]
-    },
-    {
-     "name": "英超 水晶宫vs利物浦(中文解说)",
-     "urls": [
-      "https://play.aarray.cn/rrty/hd-zh-1-4558705_gqzm.m3u8?auth_key=1794151169-0-0-6d57ef028c32121184be5cc65c64f24c&token=3a9bd1c711940947&device=4&platform=rrty"
-     ]
-    },
-    {
-     "name": "英超 水晶宫vs利物浦(英文1080P)",
-     "urls": [
-      "https://pul-tenm.gkykp.com/live/hd-en-1-4558705.m3u8?txSecret=9f767391bd568bb9b64a74b10299d663&txTime=6AF1D528"
-     ]
-    },
-    {
-     "name": "英超 布莱顿vs布伦特福德(国内1)",
-     "urls": [
-      "https://spl.tiyucdn.com/matchlive/ls2067786_30fps.m3u8"
-     ]
-    },
-    {
-     "name": "英超 布莱顿vs布伦特福德(中文解说)",
-     "urls": [
-      "https://play.aarray.cn/rrty/hd-zh-1-4558700_gqzm.m3u8?auth_key=1794151346-0-0-ea5bb89b2cb8d77b0c2feffe6de0b61a&token=ff3c3b32452379c1&device=4&platform=rrty"
-     ]
-    },
-    {
-     "name": "英超 布莱顿vs布伦特福德(英文1080P)",
-     "urls": [
-      "https://pul-tenm.gkykp.com/live/hd-en-1-4558700.m3u8?txSecret=e62751b0396aed055b4973cded459bf8&txTime=6AF1D528"
-     ]
-    },
-    {
-     "name": "英超 伊普斯维奇vs伯恩茅斯(国内1)",
-     "urls": [
-      "https://hlsz.yjjcfw.com/live/00584187.m3u8?expire=1794162322&sign=cc2bc68a62444c3ab762f793d0b457c1"
-     ]
-    },
-    {
-     "name": "英超 伊普斯维奇vs伯恩茅斯(国内2)",
-     "urls": [
-      "https://spl.tiyucdn.com/matchlive/ls2067790_30fps.m3u8"
-     ]
-    },
-    {
-     "name": "英超 伊普斯维奇vs伯恩茅斯(中文解说)",
-     "urls": [
-      "https://play.aarray.cn/rrty/hd-zh-1-4558713_gqzm.m3u8?auth_key=1794151476-0-0-46378a1b09ebe0532e1e8da17a166338&token=75dc8a13b9eb23ad&device=4&platform=rrty"
-     ]
-    },
-    {
-     "name": "英超 桑德兰vs切尔西(国内1)",
-     "urls": [
-      "https://hlsz.yjjcfw.com/live/00584183.m3u8?expire=1794162369&sign=48aae10647695bed7dd83eae322a482b"
-     ]
-    },
-    {
-     "name": "英超 桑德兰vs切尔西(中文解说)",
-     "urls": [
-      "https://play.aarray.cn/rrty/hd-zh-1-4558726_gqzm.m3u8?auth_key=1794151436-0-0-8d7c50db38ce7ebb9a7dd65618f648ba&token=d122d29bce5d86b5&device=4&platform=rrty"
-     ]
-    },
-    {
-     "name": "英超 桑德兰vs切尔西(英文1080P)",
-     "urls": [
-      "https://pul-tenm.gkykp.com/live/hd-en-1-4558726.m3u8?txSecret=56c16483a4b7ccb9eae65683a62d9b30&txTime=6AF1D528"
-     ]
-    }
-   ]
+   "channels": []
   },
   {
    "group": "篮球",
    "channels": [
     {
-     "name": "NBA 勇士vs魔术(国内线路1)",
+     "name": "NBA 独行侠vs篮网(国内1)",
      "urls": [
-      "https://hlsz.yjjcfw.com/live/10022600193.m3u8?expire=1794125367&sign=7ff0dc89e04c7199b7b71306ffd6dd3c"
+      "https://hlsz.yjjcfw.com/live/00588371.m3u8?expire=1794208344&sign=957592aa7cf73695d05076613aa80b32"
      ]
     },
     {
-     "name": "NBA 勇士vs魔术(国内线路2)",
+     "name": "NBA 独行侠vs篮网(国内2)",
      "urls": [
-      "https://hlsz.yjjcfw.com/live/00588365.m3u8?expire=1794125379&sign=c60b88b86e8ae4179019703d0dcc5d6f"
+      "https://hlsz.yjjcfw.com/live/10022600199.m3u8?expire=1794208351&sign=3e8eada98a65f3cf812c81dbf8382b0c"
      ]
     },
     {
-     "name": "NBA 太阳vs火箭(国内线路1)",
+     "name": "NBA 独行侠vs篮网(腾讯线路)",
      "urls": [
-      "https://hlsz.yjjcfw.com/live/10022600194.m3u8?expire=1794125423&sign=38970366a14209d9e8e78a7796946a3a"
+      "https://ed5de08771c1401049a3b457906e588c.v.smtcdns.net/txycdn.video.qq.com/1397782502.m3u8?time=1794193941&from=player&cdn=tcloud&sdtfrom=v4000402212&platform=40201&butype=2&HLSP2P=1&vkey=nvkey_AQQgIEDwgB1ZfvnAaq398gkeMLefmB9QjXpiYQADIMwvvidyENC8Y5Iz5_7Db_fubejlHTUBcBqjc16pVB3JPNtBW4L8cL1nFEevCoqoMPsfyTLrfIc2sbiKt5V0aJD2eTIKNmMdDnFtsovJDth1PLg44zAdSvHPWRSAwv_vejheRhwdnO95wL8Vw3GnszY4FkTTOkUFS57-z9PWFwS9JXpWA0qz0qG_SaE0ScGY_5bukicbkVv4Cg1KemY3kPRJHoZavaWI3Hnk9sfNI_MJhH6TflCs5cuXEHRCCsHfEm98TJm2lGSMkF2L3MpHY5zqHicyMJD44-fENn6tGqzxwNkhb-ad8RvA8zKjhsW9jF3ZZXjWzAKhfWEm47PjCsU4pHAxRJdKplzVp8kXYpLG1Ta0-iDNXDuS_4NH7o1iRjg2U0K0niZmg2I8f1h6JGacIzQM4kuCDOXpMp2IwhHd5wWJRumKBkRRmCXcuceIvXuyy-B-x87AhbGijADqSKhQdv3e4g6Y7kcrRGQqVfRkjgijsgDX6NygjirW-JSfcXJE_YwuJp56&drmtype=0"
      ]
     },
     {
-     "name": "NBA 太阳vs火箭(国内线路2)",
+     "name": "NBA 雄鹿vs凯尔特人(国内1)",
      "urls": [
-      "https://hlsz.yjjcfw.com/live/00588366.m3u8?expire=1794125445&sign=2bc584705d86e2c3f6e7db2765d0adc6"
+      "https://hlsz.yjjcfw.com/live/10022600200.m3u8?expire=1794208372&sign=a6c21c2d7c52a53c71b694313f0ad8df"
      ]
     },
     {
-     "name": "NBA 开拓者vs马刺(国内线路1)",
+     "name": "NBA 雄鹿vs凯尔特人(国内2)",
      "urls": [
-      "https://hlsz.yjjcfw.com/live/00588367.m3u8?expire=1794125294&sign=a73c24b25da27fc46699ee13399c07a8"
+      "https://hlsz.yjjcfw.com/live/00588372.m3u8?expire=1794208379&sign=3be3f59e50d810bf45beb4f634aacd98"
      ]
     },
     {
-     "name": "NBA 开拓者vs马刺(国内线路2)",
+     "name": "NBA 国王vs热火(国内1)",
      "urls": [
-      "https://hlsz.yjjcfw.com/live/10022600195.m3u8?expire=1794125311&sign=61d701fdd2e95ee5476440b1a17dc5c4"
+      "https://hlsz.yjjcfw.com/live/10022600202.m3u8?expire=1794208161&sign=45f067ec1704fd1acc05c9e655580ec1"
+     ]
+    },
+    {
+     "name": "NBA 国王vs热火(国内2)",
+     "urls": [
+      "https://hlsz.yjjcfw.com/live/00588374.m3u8?expire=1794208200&sign=9feb76de4cc4cfc96c45687ffeacf07a"
+     ]
+    },
+    {
+     "name": "NBA 国王vs热火(腾讯线路)",
+     "urls": [
+      "https://txycdn7.video.qq.com/1397783702.m3u8?time=1794193819&cdn=txycdn&sdtfrom=v4000402212&platform=40201&butype=2&HLSP2P=1&vkey=nvkey_AQQgIBghAc3aQtkGCiM6SP7coTD9Mjjj4LGdpR-tr0ul3VzOEJIRpY7DlXW5XQxUQE7CoXsBcEwMO1AB4g32sTV3gjKK4R4cPkiUuV_eO3CAcUHeCspRhi-fEjyigYFIfbDxASLaVyNmy-7DaUAVm0RRaUtNUJuMtenV6LC_iMuo-C-IAu2UPHdVo_04wlQi_uQlBaYAcap28MUfm2kRJwlm2Uz20kITT8xUdAkDHW2u5IBOmnCIAGuaaIdam4WWqxeom7RJ6Isok7idiY1X7Qt1VKHxpmrgrXOWzkx8-9x8cy-TjX5knkeiSv6Ue8eqltGmKF2-CrUrxRMus8_F7lzkDIToYKb2Yi7uZZByVq0K95VHY3U53hD7KD4Jy1ahoQeTSpH0fyGQ3NrMrv3HyYW0bXjpLI3XJXHbgD6sUm4Xk-vlADtD88k1FFKJTJ5wiuwjjpSMsP9Q6p6XYvc4HIyQZ3W-8oih_ZaYHtJg8qHqrJRDY9hdB8A23CLxifvQwFiJPoUtcCvG-BFsI1_XjPiwNNHKkZaeKtGRSMvCc1E_MvmucG5q&drmtype=0"
+     ]
+    },
+    {
+     "name": "NBA 快船vs鹈鹕(国内1)",
+     "urls": [
+      "https://hlsz.yjjcfw.com/live/10022600201.m3u8?expire=1794208272&sign=7464b89937633b36e8326d71fa1a072d"
+     ]
+    },
+    {
+     "name": "NBA 快船vs鹈鹕(腾讯线路)",
+     "urls": [
+      "https://2e4518f8da15c2064104d50f37e99f04.v.smtcdns.net/txycdn.video.qq.com/1782234902.m3u8?time=1794193841&from=player&cdn=tcloud&sdtfrom=v4000402212&platform=40201&butype=2&HLSP2P=1&vkey=nvkey_AQQgIMkuKc7lT58i537E2LYyQCFuvvDNYI8M54SFaU-VfTo6ELmlDABf5PncR1J7ND8ZziMBcHpJ0lOkgWTGRPbOuqk8z6XZqSeWW3Jp3RORlMzO5nMCGo-__7zVhpjyaKwZxccDQfBMlNjAXNf4nZMBBv5a-iuXOsqF5SHihwu3LCB1R9_HwvaMS79aiCEd_35oz8-qR1wmFwM0q5QMkwbm2u-nMquwCJvfFzfnD5Cvptxb0EXKZTr5oPfTnUX0kt2ZLGsC8geEikgIIDm0NlJUw41qj_9jCHZmpy3IS6ychNM9b0RvM9kyRFqCLXXn7MJo5Esen2qXnsbCIUEPmfg1KjWHF5XvlfLyQOYO4HclpKWbDe7h_wv-Xqt4YgLJKCge-sQnZ9SpbVnZMDu-UnTyW65Lln5wV7yU19eT-x46DdIsld5N_vvhVnydSax1MMWR4F930f-Guiw5sHFbW4L4uRLaO5PL4-rNssU_ecrC3TOYkB1PpiLHivJEI0uILvdo0K7w3pLblomIyPwTZN5UQIw9R1gl-pllfnnmfA9mT52IryQQ&drmtype=0"
      ]
     }
    ]
@@ -2798,6 +2749,12 @@
       "http://4gtv.cnlive.club/channel/n4da4274/index.m3u8?q=1782639885837",
       "http://jnzq.ohoyee.com:9080/live/xiangjiaoge-hyxw.m3u8",
       "http://222.128.55.152:9080/live/hy.m3u8"
+     ]
+    },
+    {
+     "name": "纬来体育 HD LIVE",
+     "urls": [
+      "https://hlsz.yjjcfw.com/live/vl.m3u8?expire=1794208226&sign=c001f27f210c304a1dfaa1a9a450349e"
      ]
     }
    ]
