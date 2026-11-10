@@ -2659,17 +2659,19 @@
    "group": "台湾新闻",
    "channels": [
     {
-     "name": "中天新闻(实时)",
+     "name": "中天新闻(720p)",
      "urls": [
-      "http://38.64.72.148/hls/modn/list/4010/chunklist1.m3u8",
-      "http://38.64.72.148/hls/modn/list/4010/chunklist0.m3u8"
+      "https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/CTINews_2.m3u8",
+      "https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/CTINews_3.m3u8",
+      "http://38.64.72.148/hls/modn/list/4010/chunklist1.m3u8"
      ]
     },
     {
-     "name": "TVBS新闻(实时)",
+     "name": "TVBS新闻(720p)",
      "urls": [
-      "http://38.64.72.148/hls/modn/list/4027/chunklist1.m3u8",
-      "http://38.64.72.148/hls/modn/list/4027/chunklist0.m3u8"
+      "https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/TVBSNewsQT_2.m3u8",
+      "https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/TVBSNewsQT_3.m3u8",
+      "http://38.64.72.148/hls/modn/list/4027/chunklist1.m3u8"
      ]
     },
     {
@@ -2694,24 +2696,26 @@
      ]
     },
     {
-     "name": "华视新闻(实时)",
+     "name": "华视新闻(720p)",
      "urls": [
-      "http://38.64.72.148/hls/modn/list/4025/chunklist0.m3u8",
-      "http://38.64.72.148/hls/modn/list/4025/chunklist1.m3u8"
+      "https://d2jc41c1shgcol.cloudfront.net/live/ctsnewsqt/CTSNewsQT_2.m3u8",
+      "https://d2jc41c1shgcol.cloudfront.net/live/ctsnewsqt/CTSNewsQT_3.m3u8",
+      "http://38.64.72.148/hls/modn/list/4025/chunklist0.m3u8"
      ]
     },
     {
-     "name": "民视新闻(实时)",
+     "name": "民视新闻(720p)",
      "urls": [
-      "http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8",
-      "http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8"
+      "https://d2jc41c1shgcol.cloudfront.net/live/ftvnewsqt/FTVNews_QT_2.m3u8",
+      "https://d2jc41c1shgcol.cloudfront.net/live/ftvnewsqt/FTVNews_QT_3.m3u8",
+      "http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8"
      ]
     },
     {
-     "name": "台视新闻(实时)",
+     "name": "台视新闻(1080p)",
      "urls": [
-      "http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8",
-      "http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8"
+      "https://live.wcetv.com/hls/m3u8/ttvnews.m3u8",
+      "http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8"
      ]
     },
     {
