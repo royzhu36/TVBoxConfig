@@ -2671,6 +2671,27 @@
      ]
     },
     {
+     "name": "东森新闻(720p)",
+     "urls": [
+      "https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/EBCNews_TS-1111_2.m3u8",
+      "https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/EBCNews_TS-1111_3.m3u8"
+     ]
+    },
+    {
+     "name": "中视新闻(720p)",
+     "urls": [
+      "https://d2jc41c1shgcol.cloudfront.net/live/ctvnewsqt/CTVNewsQT_2.m3u8",
+      "https://d2jc41c1shgcol.cloudfront.net/live/ctvnewsqt/CTVNewsQT_3.m3u8"
+     ]
+    },
+    {
+     "name": "三立iNEWS(720p)",
+     "urls": [
+      "https://d2jc41c1shgcol.cloudfront.net/live/iNEWS/iNEWS_TS-1111_2.m3u8",
+      "https://d2jc41c1shgcol.cloudfront.net/live/iNEWS/iNEWS_TS-1111_3.m3u8"
+     ]
+    },
+    {
      "name": "华视新闻(实时)",
      "urls": [
       "http://38.64.72.148/hls/modn/list/4025/playlist.m3u8"
@@ -2692,12 +2713,6 @@
      "name": "TVBS欢乐(实时)",
      "urls": [
       "http://38.64.72.148/hls/modn/list/4005/playlist.m3u8"
-     ]
-    },
-    {
-     "name": "纬来体育 HD LIVE",
-     "urls": [
-      "https://hlsz.yjjcfw.com/live/vl.m3u8?expire=1794208226&sign=c001f27f210c304a1dfaa1a9a450349e"
      ]
     }
    ]
