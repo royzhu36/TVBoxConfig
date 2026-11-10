@@ -36,7 +36,7 @@
    "quickSearch": 0,
    "changeable": 1,
    "filterable": 1,
-   "playerType": 2
+   "playerType": 1
   },
   {
    "key": "暴风资源",
@@ -47,7 +47,7 @@
    "quickSearch": 1,
    "changeable": 1,
    "filterable": 1,
-   "playerType": 2
+   "playerType": 1
   },
   {
    "key": "非凡资源",
@@ -58,7 +58,7 @@
    "quickSearch": 1,
    "changeable": 1,
    "filterable": 1,
-   "playerType": 2
+   "playerType": 1
   },
   {
    "key": "量子资源",
@@ -69,7 +69,7 @@
    "quickSearch": 1,
    "changeable": 1,
    "filterable": 1,
-   "playerType": 2
+   "playerType": 1
   },
   {
    "key": "极速资源",
@@ -80,7 +80,7 @@
    "quickSearch": 0,
    "changeable": 1,
    "filterable": 1,
-   "playerType": 2
+   "playerType": 1
   },
   {
    "key": "魔都资源",
@@ -91,7 +91,7 @@
    "quickSearch": 0,
    "changeable": 1,
    "filterable": 1,
-   "playerType": 2
+   "playerType": 1
   },
   {
    "key": "电影天堂资源",
@@ -102,7 +102,7 @@
    "quickSearch": 1,
    "changeable": 1,
    "filterable": 1,
-   "playerType": 2
+   "playerType": 1
   },
   {
    "key": "量子资源",
@@ -113,7 +113,7 @@
    "quickSearch": 0,
    "changeable": 1,
    "filterable": 1,
-   "playerType": 2
+   "playerType": 1
   },
   {
    "key": "量子资源",
@@ -124,7 +124,7 @@
    "quickSearch": 0,
    "changeable": 1,
    "filterable": 1,
-   "playerType": 2
+   "playerType": 1
   },
   {
    "key": "量子资源",
@@ -135,7 +135,7 @@
    "quickSearch": 0,
    "changeable": 1,
    "filterable": 1,
-   "playerType": 2
+   "playerType": 1
   },
   {
    "key": "量子资源",
@@ -146,7 +146,7 @@
    "quickSearch": 0,
    "changeable": 1,
    "filterable": 1,
-   "playerType": 2
+   "playerType": 1
   }
  ],
  "lives": [
