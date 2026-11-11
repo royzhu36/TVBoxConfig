@@ -2717,13 +2717,6 @@
       "https://live.wcetv.com/hls/m3u8/ttvnews.m3u8",
       "http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8"
      ]
-    },
-    {
-     "name": "TVBS欢乐(实时)",
-     "urls": [
-      "http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8",
-      "http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8"
-     ]
     }
    ]
   },
