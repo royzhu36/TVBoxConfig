@@ -154,45 +154,74 @@
    "group": "篮球",
    "channels": [
     {
-     "name": "NBA 独行侠vs篮网(国内1)",
+     "name": "NBA 步行者vs尼克斯(纬来1080p)",
      "urls": [
-      "https://hlsz.yjjcfw.com/live/00588371.m3u8?expire=1794208344&sign=957592aa7cf73695d05076613aa80b32"
+      "https://hlsz.yjjcfw.com/live/vl.m3u8?expire=1794629734&sign=5260544c45408abd089ceb27f278b311"
      ]
     },
     {
-     "name": "NBA 独行侠vs篮网(国内2)",
+     "name": "NBA 步行者vs尼克斯(国内720p)",
      "urls": [
-      "https://hlsz.yjjcfw.com/live/10022600199.m3u8?expire=1794208351&sign=3e8eada98a65f3cf812c81dbf8382b0c"
+      "https://hlsz.yjjcfw.com/live/10022600034.m3u8?expire=1794629742&sign=631a637e8d7d3109211f8711476de568"
      ]
     },
     {
-     "name": "NBA 雄鹿vs凯尔特人(国内1)",
+     "name": "NBA 步行者vs尼克斯(国内720p备)",
      "urls": [
-      "https://hlsz.yjjcfw.com/live/10022600200.m3u8?expire=1794208372&sign=a6c21c2d7c52a53c71b694313f0ad8df"
+      "https://hlsz.yjjcfw.com/live/00590157.m3u8?expire=1794629751&sign=dc8dd60c726721a8f34732d7e440f415"
      ]
     },
     {
-     "name": "NBA 雄鹿vs凯尔特人(国内2)",
+     "name": "NBA 魔术vs雄鹿(国内720p)",
      "urls": [
-      "https://hlsz.yjjcfw.com/live/00588372.m3u8?expire=1794208379&sign=3be3f59e50d810bf45beb4f634aacd98"
+      "https://hlsz.yjjcfw.com/live/00590156.m3u8?expire=1794629785&sign=b8b870092f9a472652dec589c8f81826"
      ]
     },
     {
-     "name": "NBA 国王vs热火(国内1)",
+     "name": "NBA 魔术vs雄鹿(国内720p备)",
      "urls": [
-      "https://hlsz.yjjcfw.com/live/10022600202.m3u8?expire=1794208161&sign=45f067ec1704fd1acc05c9e655580ec1"
+      "https://hlsz.yjjcfw.com/live/10022600035.m3u8?expire=1794629793&sign=d0e3594afcbc58558258d24b212976f7"
+     ]
+    }
+   ]
+  },
+  {
+   "group": "足球",
+   "channels": [
+    {
+     "name": "足球 阿根廷vs乌拉圭(720p)",
+     "urls": [
+      "https://play.aarray.cn/rrty/sd-1-4663041_gqzm.m3u8?auth_key=1794618864-0-0-7e801359fcd00a44d8a2866e49f4e7be&token=2eba4c3b33537ebb&device=4&platform=rrty"
      ]
     },
     {
-     "name": "NBA 国王vs热火(国内2)",
+     "name": "足球 阿根廷vs乌拉圭(1080p)",
      "urls": [
-      "https://hlsz.yjjcfw.com/live/00588374.m3u8?expire=1794208200&sign=9feb76de4cc4cfc96c45687ffeacf07a"
+      "https://pul-tenm.gkykp.com/live/sd-1-4663041.m3u8?txSecret=8b4ebd6f1ef0eb4c34deffe12a5d160c&txTime=6AF8F498"
      ]
     },
     {
-     "name": "NBA 快船vs鹈鹕(国内1)",
+     "name": "足球 哥伦比亚vs智利(720p)",
      "urls": [
-      "https://hlsz.yjjcfw.com/live/10022600201.m3u8?expire=1794208272&sign=7464b89937633b36e8326d71fa1a072d"
+      "https://play.aarray.cn/rrty/hd-en-1-4650132_gqzm.m3u8?auth_key=1794618834-0-0-f5fed03a060d13dd78277ab8340036eb&token=a890f4f7d9b361c6&device=4&platform=rrty"
+     ]
+    },
+    {
+     "name": "足球 哥伦比亚vs智利(540p)",
+     "urls": [
+      "https://pul-tenm.gkykp.com/live/sd-1-4650132.m3u8?txSecret=d004181d18d9828d4ec2a3058b0a4a1b&txTime=6AF8F498"
+     ]
+    },
+    {
+     "name": "足球 厄瓜多尔vs哥斯达黎加(540p)",
+     "urls": [
+      "https://play.aarray.cn/rrty/sd-1-4663042_gqzm.m3u8?auth_key=1794618964-0-0-60c4a866d0c1f909f452f71203966d9c&token=a27e34763822aa66&device=4&platform=rrty"
+     ]
+    },
+    {
+     "name": "足球 厄瓜多尔vs哥斯达黎加(540p备)",
+     "urls": [
+      "https://pul-tenm.gkykp.com/live/sd-1-4663042.m3u8?txSecret=c4f15835c3b1b4aee8a2017a4fc9a60d&txTime=6AF8F498"
      ]
     }
    ]
