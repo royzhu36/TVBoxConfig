@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="CCTV1",CCTV1
+http://101.35.240.114:88/live.php?id=CCTV1
+#EXTINF:-1 tvg-name="CCTV-5+",CCTV-5+
+https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8
+#EXTINF:-1 tvg-name="中天新闻(720p)",中天新闻(720p)
+https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/CTINews_2.m3u8
+#EXTINF:-1 tvg-name="东森新闻(720p)",东森新闻(720p)
+https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/EBCNews_TS-1111_2.m3u8
+#EXTINF:-1 tvg-name="台视新闻(1080p)",台视新闻(1080p)
+https://live.wcetv.com/hls/m3u8/ttvnews.m3u8
+#EXTINF:-1 tvg-name="翡翠台",翡翠台
+http://120.198.95.220:9901/tsfile/live/1004_1.m3u8?key=txiptv
