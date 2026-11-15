@@ -1,0 +1,63 @@
+{
+ "spider": "",
+ "wallpaper": "",
+ "logo": "",
+ "sites": [
+  {
+   "key": "drpy_js_88看球",
+   "name": "💥88看球(体育)",
+   "type": 3,
+   "api": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js",
+   "ext": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js/88%E7%9C%8B%E7%90%83.js",
+   "changeable": 0,
+   "style": {
+    "type": "rect",
+    "ratio": 1
+   }
+  },
+  {
+   "key": "哔哩影视",
+   "name": "高清 | 哔哩影视(B站正版)",
+   "type": 3,
+   "api": "csp_Bili",
+   "searchable": 1,
+   "changeable": 0,
+   "style": {
+    "type": "rect",
+    "ratio": 1.433
+   }
+  }
+ ],
+ "lives": [
+  {
+   "group": "测试分组",
+   "channels": [
+    {
+     "name": "CCTV1",
+     "urls": [
+      "http://101.35.240.114:88/live.php?id=CCTV1"
+     ]
+    },
+    {
+     "name": "中天新闻(720p)",
+     "urls": [
+      "https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/CTINews_2.m3u8"
+     ]
+    },
+    {
+     "name": "东森新闻(720p)",
+     "urls": [
+      "https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/EBCNews_TS-1111_2.m3u8"
+     ]
+    },
+    {
+     "name": "台视新闻(1080p)",
+     "urls": [
+      "https://live.wcetv.com/hls/m3u8/ttvnews.m3u8"
+     ]
+    }
+   ]
+  }
+ ],
+ "parses": []
+}
