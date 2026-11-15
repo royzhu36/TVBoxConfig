@@ -154,44 +154,27 @@
    "group": "篮球",
    "channels": [
     {
-     "name": "NBA 热火vs活塞(720p)",
-     "urls": [
-      "https://hlsz.yjjcfw.com/live/10022600233.m3u8?expire=1794719756&sign=cc4559c1173e88d304a8df4463a7e1b1",
-      "https://hlsz.yjjcfw.com/live/00588405.m3u8?expire=1794719765&sign=f27ebe58093d01b9a4cdc3c27186aa90"
-     ]
-    },
-    {
      "name": "NBA 骑士vs独行侠(1080p)",
      "urls": [
-      "https://pul-tenm.gkykp.com/live/hd-en-2-3931674.m3u8?txSecret=5da76f662b920cb3af53b69c9a13220c&txTime=6AFA57E9",
-      "https://hlsz.yjjcfw.com/live/00588404.m3u8?expire=1794719830&sign=4bcb8b1c65dbe6952d1558e319bc7ae9"
+      "https://pul-tenm.gkykp.com/live/hd-en-2-3931674.m3u8?txSecret=88b8e2b57d9fca26efd0a3ca65d639e5&txTime=6AFA6328"
      ]
     },
     {
-     "name": "NBA 鹈鹕vs掘金(720p)",
+     "name": "NBA 热火vs活塞(1080p)",
      "urls": [
-      "https://hlsz.yjjcfw.com/live/10022600231.m3u8?expire=1794719871&sign=4488614014534de8faa35582234bd000",
-      "https://hlsz.yjjcfw.com/live/00588403.m3u8?expire=1794719881&sign=5c80de6dde7f658832a31e630d50e184"
+      "https://pul-tenm.gkykp.com/live/hd-en-2-3931675.m3u8?txSecret=7025f83debb0e62398ab0a1843711bfd&txTime=6AFA6490"
      ]
     },
     {
-     "name": "NBA 森林狼vs公牛(720p)",
+     "name": "NBA 森林狼vs公牛(1080p)",
      "urls": [
-      "https://hlsz.yjjcfw.com/live/00588406.m3u8?expire=1794719942&sign=0f4b9e46211fa50ea79f246860138ecf"
+      "https://pul-tenm.gkykp.com/live/hd-en-2-3931677.m3u8?txSecret=250d07be25f7bf1f647912054c347fd7&txTime=6AFA6490"
      ]
     },
     {
-     "name": "NBA 灰熊vs篮网(720p)",
+     "name": "NBA 灰熊vs篮网(1080p)",
      "urls": [
-      "https://hlsz.yjjcfw.com/live/10022600234.m3u8?expire=1794719973&sign=a3f15c1ef92d342e691e8f0752f39714",
-      "https://hlsz.yjjcfw.com/live/00588407.m3u8?expire=1794719980&sign=fecc57fbab90005bc1b4e34f882010ae",
-      "https://hlsz.yjjcfw.com/live/10022600232.m3u8?expire=1794719818&sign=515c1c17a1afc960097c8016e2675623"
-     ]
-    },
-    {
-     "name": "NBA 雄鹿vs魔术(720p)",
-     "urls": [
-      "https://hlsz.yjjcfw.com/live/10022600235.m3u8?expire=1794719951&sign=9947e7577fe352fa34cbc1893a816e3d"
+      "https://pul-tenm.gkykp.com/live/hd-en-2-3931676.m3u8?txSecret=59429c2798ced3dbdfc2a8d0e422fcd9&txTime=6AFA6490"
      ]
     }
    ]
