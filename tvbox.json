@@ -151,12 +151,6 @@
  ],
  "lives": [
   {
-   "group": "篮球·腾讯中文",
-   "name": "腾讯体育",
-   "type": 0,
-   "url": "https://royzhu36.github.io/TVBoxConfig/basketball_qq.m3u"
-  },
-  {
    "group": "篮球",
    "channels": [
     {
