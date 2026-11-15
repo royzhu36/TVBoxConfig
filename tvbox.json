@@ -183,6 +183,18 @@
    "group": "中文体育",
    "channels": [
     {
+     "name": "五星体育(NBA中文解说)",
+     "urls": [
+      "http://74.91.26.218:82/live/wxty.m3u8"
+     ]
+    },
+    {
+     "name": "CCTV-5(体育频道)",
+     "urls": [
+      "http://74.91.26.218:82/live/cctv5hd.m3u8"
+     ]
+    },
+    {
      "name": "CCTV-5+",
      "urls": [
       "https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8"
