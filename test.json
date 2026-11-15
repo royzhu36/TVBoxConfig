@@ -1,0 +1,50 @@
+{
+ "spider": "",
+ "wallpaper": "",
+ "logo": "",
+ "sites": [],
+ "lives": [
+  {
+   "group": "测试分组",
+   "channels": [
+    {
+     "name": "CCTV1",
+     "urls": [
+      "http://101.35.240.114:88/live.php?id=CCTV1"
+     ]
+    },
+    {
+     "name": "CCTV-5+",
+     "urls": [
+      "https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8"
+     ]
+    },
+    {
+     "name": "中天新闻(720p)",
+     "urls": [
+      "https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/CTINews_2.m3u8"
+     ]
+    },
+    {
+     "name": "东森新闻(720p)",
+     "urls": [
+      "https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/EBCNews_TS-1111_2.m3u8"
+     ]
+    },
+    {
+     "name": "台视新闻(1080p)",
+     "urls": [
+      "https://live.wcetv.com/hls/m3u8/ttvnews.m3u8"
+     ]
+    },
+    {
+     "name": "翡翠台",
+     "urls": [
+      "http://120.198.95.220:9901/tsfile/live/1004_1.m3u8?key=txiptv"
+     ]
+    }
+   ]
+  }
+ ],
+ "parses": []
+}
