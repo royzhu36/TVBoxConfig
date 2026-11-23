@@ -81,6 +81,17 @@
    "changeable": 1,
    "filterable": 1,
    "playerType": 1
+  },
+  {
+   "key": "lzizy1",
+   "name": "点播 | 量子资源",
+   "type": 1,
+   "api": "https://lzizy1.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "changeable": 1,
+   "filterable": 1,
+   "playerType": 1
   }
  ],
  "lives": [
