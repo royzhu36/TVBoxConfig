@@ -28,10 +28,10 @@
    }
   },
   {
-   "key": "jisu",
-   "name": "点播 | 极速资源",
+   "key": "modu",
+   "name": "点播 | 魔都资源",
    "type": 1,
-   "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8/",
+   "api": "https://caiji.moduapi.cc/api.php/provide/vod/",
    "searchable": 1,
    "quickSearch": 1,
    "changeable": 1,
