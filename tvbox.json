@@ -140,12 +140,6 @@
      ]
     },
     {
-     "name": "CCTV-5+",
-     "urls": [
-      "https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8"
-     ]
-    },
-    {
      "name": "CCTV-16 HD (1080p)",
      "urls": [
       "http://74.91.26.218:82/live/cctv16hd.m3u8"
