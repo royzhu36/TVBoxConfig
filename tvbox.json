@@ -99,27 +99,43 @@
    "group": "篮球",
    "channels": [
     {
-     "name": "NBA 骑士vs独行侠(1080p)",
+     "name": "NBA 尼克斯vs热火(咪咕中文)",
      "urls": [
-      "https://pul-tenm.gkykp.com/live/hd-en-2-3931674.m3u8?txSecret=88b8e2b57d9fca26efd0a3ca65d639e5&txTime=6AFA6328"
+      "https://hlsz.yjjcfw.com/live/00590186.m3u8?expire=1795844862&sign=1bd9aca8f56742be5139cc3f68478dda"
      ]
     },
     {
-     "name": "NBA 热火vs活塞(1080p)",
+     "name": "NBA 活塞vs雄鹿(咪咕中文)",
      "urls": [
-      "https://pul-tenm.gkykp.com/live/hd-en-2-3931675.m3u8?txSecret=7025f83debb0e62398ab0a1843711bfd&txTime=6AFA6490"
+      "https://hlsz.yjjcfw.com/live/00590187.m3u8?expire=1795844916&sign=0bc22e6663f4ae35cc7efe9d4be1cc63"
      ]
     },
     {
-     "name": "NBA 森林狼vs公牛(1080p)",
+     "name": "NBA 步行者vs76人(咪咕中文)",
      "urls": [
-      "https://pul-tenm.gkykp.com/live/hd-en-2-3931677.m3u8?txSecret=250d07be25f7bf1f647912054c347fd7&txTime=6AFA6490"
+      "https://hlsz.yjjcfw.com/live/00590189.m3u8?expire=1795844973&sign=5076ab6fa21b047767a73409afaf2279",
+      "https://hlsz.yjjcfw.com/live/10022600066.m3u8?expire=1795844966&sign=60280e9d4d08511f40dec3c461c0ee5e"
      ]
     },
     {
-     "name": "NBA 灰熊vs篮网(1080p)",
+     "name": "NBA 猛龙vs篮网(咪咕中文)",
      "urls": [
-      "https://pul-tenm.gkykp.com/live/hd-en-2-3931676.m3u8?txSecret=59429c2798ced3dbdfc2a8d0e422fcd9&txTime=6AFA6490"
+      "https://hlsz.yjjcfw.com/live/00590188.m3u8?expire=1795845010&sign=c97818e48b68ea93b9cd77fa80579573",
+      "https://hlsz.yjjcfw.com/live/10022600067.m3u8?expire=1795845002&sign=82de5ceb77a8631e04677c13c86c22a9"
+     ]
+    },
+    {
+     "name": "NBA 凯尔特人vs老鹰(咪咕中文)",
+     "urls": [
+      "https://hlsz.yjjcfw.com/live/00590190.m3u8?expire=1795845045&sign=e0ef71b1bb10c45507337b5d68a9900f",
+      "https://hlsz.yjjcfw.com/live/10022600068.m3u8?expire=1795845039&sign=cad39f15a6cfcca4106d63f828bad23a"
+     ]
+    },
+    {
+     "name": "NBA 森林狼vs灰熊(咪咕中文)",
+     "urls": [
+      "https://hlsz.yjjcfw.com/live/00590191.m3u8?expire=1795845083&sign=46080bd75b2f89c02f010e63f380c458",
+      "https://hlsz.yjjcfw.com/live/10022600069.m3u8?expire=1795845076&sign=6b20bbb7869edc8fd4a2eba5dcdc8e18"
      ]
     }
    ]
